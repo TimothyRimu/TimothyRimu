@@ -26,4 +26,4 @@
 - Keep data leakage out: resampling and tuning happen inside training folds only.
 - Ship something usable: every project has a README, pinned dependencies and a notebook that re-runs end to end.
 
-📫 Find me on GitHub at [@TimothyRimu](https://github.com/TimothyRimu)
+📫 Find me on [LinkedIn](https://www.linkedin.com/in/timothy-rimu-69851a3b) or here on GitHub at [@TimothyRimu](https://github.com/TimothyRimu)
