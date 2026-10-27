@@ -2,7 +2,7 @@
 
 **Data analyst and data scientist** based in Nakuru, Kenya, open to remote roles. I turn messy, real-world data into analysis people can trust, and I report what did *not* work as plainly as what did.
 
-Certified through **AFRICDSA** (Certified Data Scientist/Analyst programme). Before data, I built Phaneros Consulting Services, so I'm used to answering business questions, not just fitting models.
+**Certified Data Scientist (IABAC)**, certified through **AFRICDSA**. I also founded and run **Phaneros Consulting Services**, so I'm used to answering business questions, not just fitting models.
 
 ## Featured projects
 
