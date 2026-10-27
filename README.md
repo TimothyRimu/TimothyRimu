@@ -20,6 +20,10 @@
 
 **Python** (pandas, scikit-learn, statsmodels, XGBoost, SHAP) · **Statistics** (panel regression, bootstrap inference, cross-validation) · **Visualisation** (matplotlib, Power BI) · **Apps** (Streamlit) · **Git & reproducible notebooks**
 
+## How these projects were built
+
+Built with AI assistance (Claude, by Anthropic), which is why Claude appears as a co-author on the commits. I set the questions, review the results and answer for the conclusions; the projects are written up so anyone can re-run them and check the numbers.
+
 ## How I work
 
 - Evaluate out of sample, against a simple baseline, before claiming a model is good.
